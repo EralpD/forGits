@@ -1,0 +1,14 @@
+git remote add origin ( bu origin adı orjinal ve basit bir ad olduğu için karmaşıklık olmasın diye remote a origin 
+adı koyuluyor) -> 
+
+git remote add origin <link> ile ( link github üzerinden reporsitory kurarken alınıyor) yeni bir remote ekleniyor
+
+=> 
+
+git push -u origin master 
+
+-> 
+
+ise eklenen remote u git e push lamaktır. u flag ile ( bir nevi internet üzerinden repository kurulduğu için ) 
+push lanmak istenmektedir. Bruncha geçmememize rağmen master origin branch adı, "origin" ise origin remote adıdır.
+--
